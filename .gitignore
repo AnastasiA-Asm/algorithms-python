@@ -1,0 +1,8 @@
+# Кэш Python и pytest
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Виртуальное окружение
+.venv/
+venv/
